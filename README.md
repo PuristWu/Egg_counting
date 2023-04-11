@@ -10,6 +10,7 @@ Fig.1  Egg counting performance of the different algorithms.
 
 - # Acknowledgement
 This work was supported by the Key R&D Program of Zhejiang Province (Grant No. 2021C02026), the Fundamental Research Funds for the Central Universities (Grant No. 226202200067) and the China Agriculture Research System (CARS-40).
+This study has been reviewed by the Laboratory Animal Ethics Committee of Zhejiang University (AP CODE: ZJU20230004).
 I would also like to thank Mr. Yang from Jun Yue Layer Farm and Dr. Jintian Chen for his support and help in the experimental site, equipment setup and data collection.
 
 - # Additional Notes

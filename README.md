@@ -7,5 +7,10 @@ Some of the results in this study are as follows:
 <div align=center>
 Fig.1  Egg counting performance of the different algorithms.
 </div>
+
 - # Acknowledgement
-I would like to thank Mr. Yang from Jun Yue Farm and Dr. Jintian Chen for his support and help in the experimental site, equipment setup and data collection.
+This work was supported by the Key R&D Program of Zhejiang Province (Grant No. 2021C02026), the Fundamental Research Funds for the Central Universities (Grant No. 226202200067) and the China Agriculture Research System (CARS-40).
+I would also like to thank Mr. Yang from Jun Yue Layer Farm and Dr. Jintian Chen for his support and help in the experimental site, equipment setup and data collection.
+
+- # Additional Notes
+Since the software we developed for the counting system is still under application, the data set, the code of the model including the software and hardware design of the counting system we developed will be open-sourced here after licensing.

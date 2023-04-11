@@ -1,4 +1,4 @@
-# YOLOv5-DSE————An Egg counting pipeline
+# YOLOv5-DSE————An Egg counting pipeline in commercial layer farm
 - # Purpose
 To achieve efficient and intelligent egg counting, a YOLOv5-DSE egg counting algorithm is proposed in this study, including an egg counting system built on edge devices in commercial egg farms. In addition, the algorithm has been deployed for testing on this system.
 - # Results

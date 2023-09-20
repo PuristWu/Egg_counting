@@ -2,8 +2,7 @@
 - # Purpose
 To achieve efficient and intelligent egg counting, a YOLOv5-DSE egg counting algorithm is proposed in this study, including an egg counting system built on edge devices in commercial egg farms. In addition, the algorithm has been deployed for testing on this system.
 - # Results
-Some of the results in this study are as follows:
-![egg counting]<img width="403" alt="无标题" src="https://github.com/PuristWu/Egg_counting/assets/90194261/74f86758-895a-4415-aafc-83bcf33ad6d7">
+<img width="403" alt="无标题" src="https://github.com/PuristWu/Egg_counting/assets/90194261/74f86758-895a-4415-aafc-83bcf33ad6d7">
 
 <div align=center>
 Fig.1  Egg counting performance of the different algorithms.

@@ -5,11 +5,9 @@ To achieve efficient and intelligent egg counting, a YOLOv5-DSE egg counting alg
   ## Note:The longer video demo can be viewed on the following platforms:
   ## [YouTube](https://youtu.be/xRCAaqs1efI) Youku  [Bilibili]()
 - # Results
-<img width="403" alt="无标题" src="https://github.com/PuristWu/Egg_counting/assets/90194261/74f86758-895a-4415-aafc-83bcf33ad6d7">
-
 <div align=center>
-Fig.1  Egg counting performance of the different algorithms.
-</div>
+- <img width="403" alt="无标题" src="https://github.com/PuristWu/Egg_counting/assets/90194261/74f86758-895a-4415-aafc-83bcf33ad6d7">
+ Fig.1  Egg counting performance of the different algorithms.
 
 - # Acknowledgement
 This work was supported by the Key R&D Program of Zhejiang Province (Grant No. 2021C02026), the Fundamental Research Funds for the Central Universities (Grant No. 226202200067) and the China Agriculture Research System (CARS-40).This study has been reviewed by the Laboratory Animal Ethics Committee of Zhejiang University.I would also like to thank Mr. Yang from Jun Yue Layer Farm and Dr. Jintian Chen for his support and help in the experimental site, equipment setup and data collection.

@@ -1,4 +1,4 @@
-# YOLOv5-DSE————An Egg counting pipeline in commercial layer farms
+# YOLOv5-DSE: A Deep Neural Network for Robust Egg Counting in Commercial Layer Farms
 - # Motivation
 The motivation for this study arises from the critical need for efficient and accurate egg counting on commercial layer farms. Manual counting is time-consuming and error-prone, prompting a demand for automated solutions. Existing literature lacks adequate farm-oriented methods, with prevailing techniques focusing on single-image counting, facing challenges with target movements and background interference. Recognizing the unsuitability of these approaches for video-based counting, our proposed YOLO v5-DSE algorithm aims to provide a reliable solution. Through three key modules, it leverages advanced tracking and spatial encoding to achieve a remarkable counting accuracy of 99.52% and real-time speed, surpassing existing object detectors and promising enhanced efficiency in egg-related operations for commercial layer farms.
 - # Demo video

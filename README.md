@@ -1,14 +1,14 @@
 # YOLOv5-DSE————An Egg counting pipeline in commercial layer farms
 - # Motivation
-To achieve efficient and intelligent egg counting, YOLOv5-DSE egg counting algorithm is proposed in this study, including an egg counting system built on edge devices in commercial egg farms. In addition, the algorithm has been deployed for testing on the system.
+The motivation for this study arises from the critical need for efficient and accurate egg counting on commercial layer farms. Manual counting is time-consuming and error-prone, prompting a demand for automated solutions. Existing literature lacks adequate farm-oriented methods, with prevailing techniques focusing on single-image counting, facing challenges with target movements and background interference. Recognizing the unsuitability of these approaches for video-based counting, our proposed YOLO v5-DSE algorithm aims to provide a reliable solution. Through three key modules, it leverages advanced tracking and spatial encoding to achieve a remarkable counting accuracy of 99.52% and real-time speed, surpassing existing object detectors and promising enhanced efficiency in egg-related operations for commercial layer farms.
 - # Demo video
   ## Note:The longer video demo can be viewed on the following platforms:
   <div align="left">
-  <a href="https://youtu.be/L9LF_OCCme8?si=So1MYl8jwzU9YFqe"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/5a3939d0-7d92-46d5-a4e6-c46eaf362d62" width="30%" alt="Ultralytics GitHub"></a>
-  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
+  <a href="https://youtu.be/L9LF_OCCme8?si=So1MYl8jwzU9YFqe"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/5a3939d0-7d92-46d5-a4e6-c46eaf362d62" width="30%"></a>
+  <a href="hhttps://www.bilibili.com/video/BV1Ru411g7VB/"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/7f375847-32db-42e9-bf01-af9ed9572844" width="25%"></a>
 </div>
 
-  ## [YouTube](https://youtu.be/L9LF_OCCme8?si=So1MYl8jwzU9YFqe) Youku  [Bilibili](https://www.bilibili.com/video/BV1Ru411g7VB/)
+
 - # Application scenarios
 <div align="center">
   <p>

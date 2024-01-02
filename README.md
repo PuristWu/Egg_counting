@@ -24,6 +24,11 @@ The motivation for this study arises from the critical need for efficient and ac
     Fig.2  Comparison with other egg counting methods on the egg counting dataset, and our approach achieves the best overall performance.
   </p>
   </div>
+ <div align="center">
+  <a href="hhttps://www.bilibili.com/video/BV1Ru411g7VB/">  <img src="https://github.com/PuristWu/Egg_counting/assets/90194261/bbd40b74-af6d-42e9-94f7-920e11c7be10" width="45%"></a>
+    <a href="https://youtu.be/L9LF_OCCme8?si=So1MYl8jwzU9YFqe"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/3fabdf99-0581-4e8a-b769-2d5004a2179f" width="45%"></a><br>
+   Fig.3 The user interaction interface that displays the counting results in the egg counting system.
+</div>
   
 - # Acknowledgement
 This work was supported by the Key R&D Program of Zhejiang Province (Grant No. 2021C02026), the Fundamental Research Funds for the Central Universities (Grant No. 226202200067) and the China Agriculture Research System (CARS-40).This study has been reviewed by the Laboratory Animal Ethics Committee of Zhejiang University.I would also like to thank Mr. Yang from Jun Yue Layer Farm Dr. Yanan Wang and Jintian Chen for his support and help in the experimental site, system setup and data collection.

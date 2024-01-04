@@ -30,8 +30,6 @@ The motivation for this study arises from the critical need for efficient and ac
    Fig.3 The user interaction interface that displays the counting results in the egg counting system.
 </div>
   
-- # Acknowledgement
-This work was supported by the Key R&D Program of Zhejiang Province (Grant No. 2021C02026), the Fundamental Research Funds for the Central Universities (Grant No. 226202200067) and the China Agriculture Research System (CARS-40).This study has been reviewed by the Laboratory Animal Ethics Committee of Zhejiang University.I would also like to thank Mr. Yang from Jun Yue Layer Farm Dr. Yanan Wang and Jintian Chen for their support and help in the experimental site, system setup and data collection.
 
 - # Notes
 Since the patent of our system is still pending, the data set, model code including software and hardware design related to this research will be open sourced here after the relevant patent application is authorized.

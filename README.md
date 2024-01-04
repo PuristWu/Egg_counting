@@ -4,7 +4,7 @@ The motivation for this study arises from the critical need for efficient and ac
 - # Demo video (The video can be viewed on the following platforms)
   <div align="left">
   <a href="https://www.youtube.com/watch?v=9npXAqW7c24"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/5a3939d0-7d92-46d5-a4e6-c46eaf362d62" width="30%"></a>
-  <a href="hhttps://www.bilibili.com/video/BV1Ru411g7VB/"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/7f375847-32db-42e9-bf01-af9ed9572844" width="25%"></a>
+  <a href="https://www.bilibili.com/video/BV1Ru411g7VB/"><img src="https://github.com/PuristWu/Egg_counting/assets/90194261/7f375847-32db-42e9-bf01-af9ed9572844" width="25%"></a>
 </div>
 
 
